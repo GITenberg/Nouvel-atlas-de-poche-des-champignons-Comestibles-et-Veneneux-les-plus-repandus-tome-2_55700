@@ -1,10 +1,13 @@
 _repo: Nouvel-atlas-de-poche-des-champignons-Comestibles-et-Veneneux-les-plus-repandus-tome-2_55700
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bessin, A
     gutenberg_agent_id: '48670'
     url: http://www.gutenberg.org/2009/agents/48670
+covers:
+- cover_type: archival
+  image_path: 55700-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumée, Paul
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '37192'
     url: http://www.gutenberg.org/2009/agents/37192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55700#Nouvel-atlas-de-poche-des-champignons-Comestibles-et-Veneneux-les-plus-repandus-tome-2
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2017-12-02'
 gutenberg_type: Text
